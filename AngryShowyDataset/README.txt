@@ -1,1 +1,1 @@
-Problem 2 USACO Jan 2022
+Problem 1 USACO Jan 2022
